@@ -56,15 +56,15 @@ To install SiGloG, follow these steps:
 
 1. `chmod +x setup.sh`
 
-2 `./setup.sh`
+2. `./setup.sh`
 
 ### Then, we need to go into the source code and run the following command:
 
--**1.Command**: `sudo gcc devill.c hashidentify.c -o devill -g -lcurl -lssl -lssl -lcrypto -lpcap`
+- **1.Command**: `sudo gcc devill.c hashidentify.c -o devill -g -lcurl -lssl -lssl -lcrypto -lpcap`
 
 ### Then we need to move the resulting devill executable to usr/bin.
 
--**2.Command:** `mv devill /usr/bin`
+- **2.Command:** `mv devill /usr/bin`
 
 ### Then our devill offline hash cracking tool is ready to use
 
