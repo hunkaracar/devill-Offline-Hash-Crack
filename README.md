@@ -23,7 +23,7 @@ Devill-Offline-Hash-Crack offers the following features:
   
 - **It compares the hashes of 2 different files:** `--compare` or `-C`
   
-- **It is used for rot13 and rot47 for decrypt:** `-decrypt`
+- **It is used for rot13 and rot47 for decrypt:** `--decrypt`
   
 - **Used to show details:** `-V`
   
@@ -46,3 +46,26 @@ To install SiGloG, follow these steps:
 2. **Navigate to the directory where you downloaded the source code using the terminal:**
 
 3. **Compile SiGloG using the following command:**
+
+
+## Setup
+
+### First we need to go to the Depencidies folder and run our setup.sh file and install the necessary dependencies
+
+### Commands
+
+1. `chmod +x setup.sh`
+
+2 `./setup.sh`
+
+### Then, we need to go into the source code and run the following command:
+
+-**1.Command**: `sudo gcc devill.c hashidentify.c -o devill -g -lcurl -lssl -lssl -lcrypto -lpcap`
+
+### Then we need to move the resulting devill executable to usr/bin.
+
+-**2.Command:** `mv devill /usr/bin`
+
+### Then our devill offline hash cracking tool is ready to use
+
+
