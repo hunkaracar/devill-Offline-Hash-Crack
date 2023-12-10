@@ -62,10 +62,6 @@ To install devill, follow these steps:
 
 - **1.Command**: `sudo gcc devill.c hashidentify.c -o devill -g -lcurl -lssl -lssl -lcrypto -lpcap`
 
-### Then we need to move the resulting devill executable to usr/bin.
-
-- **2.Command:** `mv devill /usr/bin`
-
 ### Then our devill offline hash cracking tool is ready to use
 
-
+- **2.Command**: `./devill --help` or `./devill -hL`
