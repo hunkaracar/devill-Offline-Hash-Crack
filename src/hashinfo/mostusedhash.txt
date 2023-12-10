@@ -1,0 +1,20 @@
+Hash-Algoritm and Encryption
+
+1->MD5
+2->MD4
+3->SHA-1
+4->SHA-224
+5->SHA-256
+6->SHA-384
+7->SHA-512
+8->SHA3_224
+9->SHA3_256
+10->SHA3-384
+11->SHA3-512
+12->CRC32
+13->Whirlpool
+14->BLAKE2b
+15->BLAKE2s
+16->NTLM hash(NT HASH)
+17->ROT13
+18->ROT47

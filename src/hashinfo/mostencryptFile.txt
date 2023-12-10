@@ -1,0 +1,17 @@
+File Encrypted Algoritm
+
+1->rar
+2->gpg
+3->pdf
+4->zip
+5->png
+6->docx
+7->sqlite
+8->tarball
+9->pptx
+10->xlsx
+11->7z
+12->mp4
+13->mp3
+14->APK
+15->Wav

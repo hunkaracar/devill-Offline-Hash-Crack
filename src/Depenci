@@ -1,0 +1,7 @@
+lcurl
+lcrypto
+sudo apt install openssl
+
+gcc brutus.c hashidentify.c -o brutus -g -lcurl  -lcrypto
+
+gcc devill.c hashidentify.c -o devill -g -lcurl -lssl -lcrypto
