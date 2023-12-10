@@ -39,13 +39,13 @@ To use devill, you can utilize the provided options and commands. For more detai
 
 ## Installation
 
-To install SiGloG, follow these steps:
+To install devill, follow these steps:
 
 1. **Download the devill source code from the [GitHub repository](https://github.com/hunkaracar).**
 
 2. **Navigate to the directory where you downloaded the source code using the terminal:**
 
-3. **Compile SiGloG using the following command:**
+3. **Compile devill using the following command:**
 
 
 ## Setup
