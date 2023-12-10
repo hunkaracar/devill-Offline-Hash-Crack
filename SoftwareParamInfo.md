@@ -7,7 +7,7 @@
 
 <br>
 
-### 1.Hash Identify => --hI
+ 1.**Hash Identify =>** --hI
 ### 2.Hash specify format => --format=
 ### 3.give wordlist for Hash Crack => --wordlist=
 ### 4.The format specifies 17 different hash types and will break these hash types when the wordlist parameters are received. => --crack
