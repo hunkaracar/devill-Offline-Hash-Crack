@@ -1,20 +1,20 @@
 
-#General Dependencies
+# General Dependencies
 
-##Explanation
+## Explanation
 
 ######################################################################################################################################
 																     #
-###By installing the packages given below, the dependency problem is solved and is necessary for the code to run smoothly.           #
-###If you find something missing or faulty in the hash cracking software (devill) and there is a place that needs improvement,       #
-###do not hesitate to forward it or improve it. 								                     #
+### By installing the packages given below, the dependency problem is solved and is necessary for the code to run smoothly.           #
+### If you find something missing or faulty in the hash cracking software (devill) and there is a place that needs improvement,       #
+### do not hesitate to forward it or improve it. 								                     #
 																     #
 ######################################################################################################################################
 
 
 
 ## Libraries that require dependencies on the C side 
-###C
+### C
 
 `sudo apt install libssl-dev`
 `sudo apt install libcurl-dev`
@@ -24,7 +24,7 @@
 
 
 ## Libraries that require dependencies on the Python side
-###Python
+### Python
 
 `pip install python-time`
 `pip install hashlib`
