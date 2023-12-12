@@ -54,11 +54,11 @@ int main(int argc, char *argv[]) {
         printf("\t\t Supported Hash Type:\n");
         printf("\t\t 1.md4\n");
         printf("\t\t 2.md5\n");
-        printf("\t\t 3.sha-1\n");
-        printf("\t\t 4.sha_224\n");
-        printf("\t\t 5.sha_256\n");
-        printf("\t\t 6.sha_384\n");
-        printf("\t\t 7.sha_512\n");
+        printf("\t\t 3.sha1\n");
+        printf("\t\t 4.sha224\n");
+        printf("\t\t 5.sha256\n");
+        printf("\t\t 6.sha384\n");
+        printf("\t\t 7.sha512\n");
         printf("\t\t 8.sha3_224\n");
         printf("\t\t 9.sha3_256\n");
         printf("\t\t 10.sha3_384\n");
