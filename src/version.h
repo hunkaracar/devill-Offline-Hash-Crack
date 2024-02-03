@@ -5,7 +5,7 @@
 
 void version_info() {
 	
-    char version1[80] = "\n&$Devill software version 22.7.23\n";
+    char version1[80] = "\n&$Devill software version 23.7.23\n";
     char version2[200] = "$Devill software is a hash cracking, comparing hash information of files, hash detection and information software that uses its own algorithm.\n";
 
     printf("%s", version1);
