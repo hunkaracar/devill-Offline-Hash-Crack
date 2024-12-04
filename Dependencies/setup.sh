@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Installing Dependencies"
-sleep 2
+sleep 1
 
 
 dependencies() {
